@@ -835,3 +835,244 @@ Recommended: 511.79
 [2022.11.27-14.58.51:148][404]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Seefitbuy.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Intermediate/TurnkeyReport_1.log" -log="C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Intermediate/TurnkeyLog_1.log" -project="C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Seefitbuy.uproject"  -Device=Win64@DESKTOP-RFAMG8E" -nocompile ]
 [2022.11.27-14.58.51:309][411]LogTurnkeySupport: Completed device detection: Code = 0
 [2022.11.27-15.29.33:802][875]LogDerivedDataCache: C:/Users/Film/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.452 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.27-15.43.53:477][444]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-RFAMG8E
+[2022.11.27-15.44.00:642][865]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-RFAMG8E
+[2022.11.27-15.45.00:693][536]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-15.45.32:426][963]LogSlate: Window 'Message' being destroyed
+[2022.11.27-15.45.32:434][963]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to update the default settings?
+[2022.11.27-15.45.39:258][963]LogSlate: Window 'Message' being destroyed
+[2022.11.27-15.45.39:267][963]Message dialog closed, result: Yes, title: Message, text: The default configuration file for these settings is currently not under source control. Would you like to add it to source control?
+[2022.11.27-15.45.44:781][963]LogSlate: Window 'Message' being destroyed
+[2022.11.27-15.45.44:789][963]Message dialog closed, result: Ok, title: Message, text: The default configuration file for these settings was updated successfully. 
+
+If checked into source control this would affect other developers.
+[2022.11.27-15.45.46:955][992]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.11.27-15.45.47:004][992]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.11.27-15.45.59:972][190]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-RFAMG8E
+[2022.11.27-15.46.23:330][525]LogSlate: Window 'Message' being destroyed
+[2022.11.27-15.46.23:340][525]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to update the default settings?
+[2022.11.27-15.46.24:803][525]LogSlate: Window 'Message' being destroyed
+[2022.11.27-15.46.24:812][525]Message dialog closed, result: Ok, title: Message, text: The default configuration file for these settings was updated successfully. 
+
+If checked into source control this would affect other developers.
+[2022.11.27-15.48.49:144][502]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-RFAMG8E
+[2022.11.27-16.29.33:959][499]LogDerivedDataCache: C:/Users/Film/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.365 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.27-17.21.06:533][911]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.11.27-17.21.13:708][  6]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.11.27-17.21.13:757][  6]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.11.27-17.21.34:632][317]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-17.21.34:653][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-17.21.34:659][317]PIE: New page: PIE session: VRTemplateMap (27 Nov 2022, 21:21:34)
+[2022.11.27-17.21.34:671][317]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.27-17.21.34:672][317]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.27-17.21.34:674][317]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-17.21.34:710][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035077s)
+[2022.11.27-17.21.34:710][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.036147s)
+[2022.11.27-17.21.34:710][317]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-17.21.34:712][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-17.21.34:712][317]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.27-17.21.34:714][317]LogPlayLevel: PIE: World Init took: (0.003504s)
+[2022.11.27-17.21.34:801][317]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.11.27-17.21.34:806][317]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.27-17.21.34:807][317]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-17.21.34:807][317]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-17.21.34:807][317]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-17.21.34:807][317]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-17.21.34:807][317]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-17.21.34:807][317]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-17.21.34:807][317]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-17.21.34:807][317]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-17.21.34:808][317]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-17.21.34:808][317]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-17.21.34:808][317]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-17.21.34:811][317]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-17.21.34:837][317]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.27-17.21.34:838][317]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-17.21.34:838][317]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-17.21.34:838][317]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-17.21.34:839][317]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.27-17.21.34:839][317]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.27-17.21.34:842][317]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.27-17.21.34:842][317]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.27-17.21.34:842][317]LogInit: FAudioDevice initialized.
+[2022.11.27-17.21.34:842][317]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2022.11.27-17.21.34:882][317]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.27-17.21.34:887][317]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.27-19.21.34
+[2022.11.27-17.21.34:889][317]LogWorld: Bringing up level for play took: 0.006427
+[2022.11.27-17.21.34:892][317]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.11.27-17.21.34:904][317]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-17.21.34:938][317]PIE: Server logged in
+[2022.11.27-17.21.34:940][317]PIE: Play in editor total start time 0,292 seconds.
+[2022.11.27-17.21.34:974][317]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-17.21.55:863][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-17.21.55:863][721]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-17.21.55:864][721]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-17.21.55:864][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-17.21.55:952][721]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-17.21.55:970][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-17.21.56:020][721]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-17.21.56:020][721]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-17.21.56:020][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.27-17.21.56:022][721]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.27-17.21.56:026][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-17.21.56:141][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.11.27-17.21.56:347][722]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.11.27-17.22.50:252][511]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-17.22.50:261][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-17.22.50:261][511]PIE: New page: PIE session: VRTemplateMap (27 Nov 2022, 21:22:50)
+[2022.11.27-17.22.50:261][511]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-17.22.50:272][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010803s)
+[2022.11.27-17.22.50:272][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.010899s)
+[2022.11.27-17.22.50:272][511]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-17.22.50:272][511]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-17.22.50:273][511]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.27-17.22.50:273][511]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2022.11.27-17.22.50:379][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.11.27-17.22.50:388][511]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.27-17.22.50:388][511]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-17.22.50:388][511]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-17.22.50:388][511]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-17.22.50:388][511]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-17.22.50:388][511]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-17.22.50:388][511]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-17.22.50:388][511]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-17.22.50:388][511]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-17.22.50:389][511]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-17.22.50:389][511]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-17.22.50:389][511]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-17.22.50:391][511]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-17.22.50:415][511]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.27-17.22.50:415][511]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-17.22.50:415][511]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-17.22.50:415][511]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-17.22.50:417][511]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.11.27-17.22.50:417][511]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.11.27-17.22.50:419][511]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.11.27-17.22.50:419][511]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.11.27-17.22.50:419][511]LogInit: FAudioDevice initialized.
+[2022.11.27-17.22.50:419][511]LogAudio: Display: Audio Device (ID: 3) registered with world 'VRTemplateMap'.
+[2022.11.27-17.22.50:431][511]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.27-17.22.50:433][511]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.27-19.22.50
+[2022.11.27-17.22.50:434][511]LogWorld: Bringing up level for play took: 0.002885
+[2022.11.27-17.22.50:436][511]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.11.27-17.22.50:437][511]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-17.22.50:437][511]PIE: Server logged in
+[2022.11.27-17.22.50:438][511]PIE: Play in editor total start time 0,177 seconds.
+[2022.11.27-17.22.50:451][511]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-17.23.21:848][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-17.23.21:848][134]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-17.23.21:849][134]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-17.23.21:850][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-17.23.21:940][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-17.23.21:956][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-17.23.22:004][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-17.23.22:005][134]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-17.23.22:005][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.27-17.23.22:006][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.27-17.23.22:014][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.11.27-17.23.22:061][135]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.11.27-17.29.33:787][474]LogDerivedDataCache: C:/Users/Film/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.435 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.27-18.29.34:001][518]LogDerivedDataCache: C:/Users/Film/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.636 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.27-19.01.00:058][ 24]LogHttp: Warning: 00000BA8F023D700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.01.00:058][ 24]LogHttp: Warning: 00000BA8F023D700: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.11.27-19.01.00:058][ 24]LogHttp: Warning: 00000BA8F023D700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xba8870c0000 [can pipeline])
+[2022.11.27-19.01.00:058][ 24]LogHttp: Warning: 00000BA8F023D700: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.11.27-19.01.00:058][ 24]LogHttp: Warning: 00000BA8F023D700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.169.182.162) port 443 (#0))
+[2022.11.27-19.01.00:058][ 24]LogHttp: Warning: 00000BA8F023D700: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.11.27-19.01.00:058][ 24]LogHttp: Warning: 00000BA8F023D700: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.11.27-19.01.00:058][ 24]LogHttp: Warning: 00000BA8F023D700: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.11.27-19.01.00:058][ 24]LogHttp: Warning: 00000BA8F023D700: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.11.27-19.01.00:058][ 24]LogHttp: Warning: 00000BA8F023D700: libcurl info message cache 7 (Closing connection 0)
+[2022.11.27-19.01.00:059][ 24]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.01.40:810][747]LogHttp: Warning: 00000BA8F0231900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.01.40:811][747]LogHttp: Warning: 00000BA8F0231900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.01.40:811][747]LogHttp: Warning: 00000BA8F0231900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.01.40:811][747]LogHttp: Warning: 00000BA8F0231900: libcurl info message cache 1 (Closing connection 1)
+[2022.11.27-19.01.40:811][747]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.02.40:833][819]LogHttp: Warning: 00000BA8F0234B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.02.40:833][819]LogHttp: Warning: 00000BA8F0234B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.02.40:833][819]LogHttp: Warning: 00000BA8F0234B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.02.40:833][819]LogHttp: Warning: 00000BA8F0234B00: libcurl info message cache 1 (Closing connection 2)
+[2022.11.27-19.02.40:834][819]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.03.40:824][929]LogHttp: Warning: 00000BA8F0230F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.03.40:824][929]LogHttp: Warning: 00000BA8F0230F00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.03.40:825][929]LogHttp: Warning: 00000BA8F0230F00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.03.40:825][929]LogHttp: Warning: 00000BA8F0230F00: libcurl info message cache 1 (Closing connection 3)
+[2022.11.27-19.03.40:825][929]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.04.40:789][ 85]LogHttp: Warning: 00000BA8F0234B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.04.40:789][ 85]LogHttp: Warning: 00000BA8F0234B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.04.40:789][ 85]LogHttp: Warning: 00000BA8F0234B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.04.40:789][ 85]LogHttp: Warning: 00000BA8F0234B00: libcurl info message cache 1 (Closing connection 4)
+[2022.11.27-19.04.40:789][ 85]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.05.40:793][242]LogHttp: Warning: 00000BA8F0231900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.05.40:793][242]LogHttp: Warning: 00000BA8F0231900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.05.40:793][242]LogHttp: Warning: 00000BA8F0231900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.05.40:793][242]LogHttp: Warning: 00000BA8F0231900: libcurl info message cache 1 (Closing connection 5)
+[2022.11.27-19.05.40:794][242]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.06.40:809][412]LogHttp: Warning: 00000BA8F0238200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.06.40:809][412]LogHttp: Warning: 00000BA8F0238200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.06.40:809][412]LogHttp: Warning: 00000BA8F0238200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.06.40:809][412]LogHttp: Warning: 00000BA8F0238200: libcurl info message cache 1 (Closing connection 6)
+[2022.11.27-19.06.40:809][412]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.07.40:818][616]LogHttp: Warning: 00000BA8F023A000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.07.40:818][616]LogHttp: Warning: 00000BA8F023A000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.07.40:818][616]LogHttp: Warning: 00000BA8F023A000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.07.40:818][616]LogHttp: Warning: 00000BA8F023A000: libcurl info message cache 1 (Closing connection 7)
+[2022.11.27-19.07.40:819][616]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.08.40:804][821]LogHttp: Warning: 00000BA8F0230A00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.08.40:804][821]LogHttp: Warning: 00000BA8F0230A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.08.40:804][821]LogHttp: Warning: 00000BA8F0230A00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.08.40:804][821]LogHttp: Warning: 00000BA8F0230A00: libcurl info message cache 1 (Closing connection 8)
+[2022.11.27-19.08.40:804][821]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.09.40:818][ 25]LogHttp: Warning: 00000BA8F0231900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.09.40:818][ 25]LogHttp: Warning: 00000BA8F0231900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.09.40:818][ 25]LogHttp: Warning: 00000BA8F0231900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.09.40:819][ 25]LogHttp: Warning: 00000BA8F0231900: libcurl info message cache 1 (Closing connection 9)
+[2022.11.27-19.09.40:819][ 25]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.10.40:789][228]LogHttp: Warning: 00000BA8F0230000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.10.40:790][228]LogHttp: Warning: 00000BA8F0230000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.10.40:790][228]LogHttp: Warning: 00000BA8F0230000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.10.40:790][228]LogHttp: Warning: 00000BA8F0230000: libcurl info message cache 1 (Closing connection 10)
+[2022.11.27-19.10.40:790][228]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.11.40:801][432]LogHttp: Warning: 00000BA8F023C800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.11.40:801][432]LogHttp: Warning: 00000BA8F023C800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.11.40:801][432]LogHttp: Warning: 00000BA8F023C800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.11.40:801][432]LogHttp: Warning: 00000BA8F023C800: libcurl info message cache 1 (Closing connection 11)
+[2022.11.27-19.11.40:801][432]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.12.40:783][635]LogHttp: Warning: 00000BA8F023B400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.12.40:784][635]LogHttp: Warning: 00000BA8F023B400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.12.40:784][635]LogHttp: Warning: 00000BA8F023B400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.12.40:784][635]LogHttp: Warning: 00000BA8F023B400: libcurl info message cache 1 (Closing connection 12)
+[2022.11.27-19.12.40:784][635]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.13.40:811][839]LogHttp: Warning: 00000BA8F0234B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.13.40:811][839]LogHttp: Warning: 00000BA8F0234B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.13.40:812][839]LogHttp: Warning: 00000BA8F0234B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.13.40:812][839]LogHttp: Warning: 00000BA8F0234B00: libcurl info message cache 1 (Closing connection 13)
+[2022.11.27-19.13.40:812][839]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.14.40:828][ 43]LogHttp: Warning: 00000BA8F023D200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.14.40:828][ 43]LogHttp: Warning: 00000BA8F023D200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.14.40:828][ 43]LogHttp: Warning: 00000BA8F023D200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.14.40:828][ 43]LogHttp: Warning: 00000BA8F023D200: libcurl info message cache 1 (Closing connection 14)
+[2022.11.27-19.14.40:828][ 43]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.15.40:808][246]LogHttp: Warning: 00000BA8F023C800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.15.40:808][246]LogHttp: Warning: 00000BA8F023C800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.15.40:808][246]LogHttp: Warning: 00000BA8F023C800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.15.40:808][246]LogHttp: Warning: 00000BA8F023C800: libcurl info message cache 1 (Closing connection 15)
+[2022.11.27-19.15.40:808][246]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.16.40:789][431]LogHttp: Warning: 00000BA8F0234B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.16.40:789][431]LogHttp: Warning: 00000BA8F0234B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.16.40:789][431]LogHttp: Warning: 00000BA8F0234B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.16.40:789][431]LogHttp: Warning: 00000BA8F0234B00: libcurl info message cache 1 (Closing connection 16)
+[2022.11.27-19.16.40:790][431]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.17.40:793][636]LogHttp: Warning: 00000BA8F023C800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.17.40:793][636]LogHttp: Warning: 00000BA8F023C800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.17.40:793][636]LogHttp: Warning: 00000BA8F023C800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.17.40:793][636]LogHttp: Warning: 00000BA8F023C800: libcurl info message cache 1 (Closing connection 17)
+[2022.11.27-19.17.40:793][636]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.18.40:788][841]LogHttp: Warning: 00000BA8F0233700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-19.18.40:788][841]LogHttp: Warning: 00000BA8F0233700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-19.18.40:789][841]LogHttp: Warning: 00000BA8F0233700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-19.18.40:789][841]LogHttp: Warning: 00000BA8F0233700: libcurl info message cache 1 (Closing connection 18)
+[2022.11.27-19.18.40:789][841]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-19.29.33:719][960]LogDerivedDataCache: C:/Users/Film/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.358 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.27-20.29.33:797][254]LogDerivedDataCache: C:/Users/Film/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.442 and deleted 0 file(s) with total size 0 MiB.
