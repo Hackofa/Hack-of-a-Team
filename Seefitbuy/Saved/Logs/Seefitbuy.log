@@ -1303,3 +1303,8 @@ Recommended: 511.79
 [2022.11.27-01.09.35:952][622]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2022.11.27-01.18.27:616][825]LogSlate: Window 'Add C++ Class' being destroyed
 [2022.11.27-01.55.47:430][266]LogDerivedDataCache: C:/Users/Film/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.569 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.27-02.30.15:642][225]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Cirrus Logic CS4208 (AB 94)), InstanceID=1
+[2022.11.27-02.30.15:666][226]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3276
+[2022.11.27-02.30.15:722][226]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=4, SampleRate=48000, DeviceID={0.0.0.00000000}.{7a895697-3d95-45ff-bcdb-d4b413f41a64}, Name=Speakers (Cirrus Logic CS4208 (AB 94))), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=55.54
+[2022.11.27-02.30.15:723][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=4, Samples=4096, InstanceID=1
+[2022.11.27-02.30.15:727][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
