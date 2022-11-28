@@ -1076,3 +1076,1571 @@ If checked into source control this would affect other developers.
 [2022.11.27-19.18.40:789][841]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
 [2022.11.27-19.29.33:719][960]LogDerivedDataCache: C:/Users/Film/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.358 and deleted 0 file(s) with total size 0 MiB.
 [2022.11.27-20.29.33:797][254]LogDerivedDataCache: C:/Users/Film/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.442 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.27-21.29.33:763][780]LogDerivedDataCache: C:/Users/Film/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.404 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.27-21.34.44:646][989]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.27-21.57.25:923][771]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.11.27-21.57.40:691][976]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.11.27-21.57.40:694][976]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-21.58.34:699][557]LogSlate: Window 'VRPawn' being destroyed
+[2022.11.27-21.58.34:813][557]LogSlate: Window 'VRPawn' being destroyed
+[2022.11.27-21.58.34:833][557]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-21.58.34:834][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.01.00:082][446]LogHttp: Warning: 00000BA8C0E96E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-22.01.00:082][446]LogHttp: Warning: 00000BA8C0E96E00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.11.27-22.01.00:082][446]LogHttp: Warning: 00000BA8C0E96E00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xba8870c09c0 [can pipeline])
+[2022.11.27-22.01.00:082][446]LogHttp: Warning: 00000BA8C0E96E00: libcurl info message cache 1 (Re-using existing connection! (#19) with host datarouter.ol.epicgames.com)
+[2022.11.27-22.01.00:082][446]LogHttp: Warning: 00000BA8C0E96E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.228.93.254) port 443 (#19))
+[2022.11.27-22.01.00:082][446]LogHttp: Warning: 00000BA8C0E96E00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.11.27-22.01.00:082][446]LogHttp: Warning: 00000BA8C0E96E00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.11.27-22.01.00:082][446]LogHttp: Warning: 00000BA8C0E96E00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.11.27-22.01.00:082][446]LogHttp: Warning: 00000BA8C0E96E00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.11.27-22.01.00:082][446]LogHttp: Warning: 00000BA8C0E96E00: libcurl info message cache 7 (Closing connection 19)
+[2022.11.27-22.01.00:082][446]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-22.01.40:848][976]LogHttp: Warning: 00000BA8D441F500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.27-22.01.40:848][976]LogHttp: Warning: 00000BA8D441F500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.11.27-22.01.40:848][976]LogHttp: Warning: 00000BA8D441F500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.11.27-22.01.40:848][976]LogHttp: Warning: 00000BA8D441F500: libcurl info message cache 1 (Closing connection 20)
+[2022.11.27-22.01.40:848][976]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72635C84-44C4-FF01-213F-4FB00C8D2B2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.1-19764885%2B%2B%2BUE5%2BRelease-5.0&UserID=9105f74d49513034456782930ab3789c%7C870094c70a614647857f88ed0ac47fee%7Cf579e24f-059e-4cf4-a33f-7c23732bd736&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.27-22.01.49:152][ 84]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.11.27-22.01.49:244][ 84]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.092 s
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: === Handled ensure: ===
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: 
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: Ensure condition failed: Key.IsValid() [File:D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\Editor.cpp] [Line: 1176]
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: 
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: Stack: 
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc13d1de58 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc13d45dfc UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc13d7efd1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc092c8aae UnrealEditor-SubobjectEditor.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc092a4034 UnrealEditor-SubobjectEditor.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc162e826b UnrealEditor-Slate.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc164174b4 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc161b144a UnrealEditor-Slate.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc1618986d UnrealEditor-Slate.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc1617d347 UnrealEditor-Slate.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc1672a76d UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc16719247 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc1672ce51 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc167149a7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffcdf0be858 USER32.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffcdf0be299 USER32.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffc1672e148 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ff7855a7114 UnrealEditor.exe!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ff7855c0d9c UnrealEditor.exe!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ff7855c0e8a UnrealEditor.exe!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ff7855c3c4d UnrealEditor.exe!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ff7855d5534 UnrealEditor.exe!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ff7855d86e6 UnrealEditor.exe!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffcde4674b4 KERNEL32.DLL!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: [Callstack] 0x00007ffcdf4226a1 ntdll.dll!UnknownFunction []
+[2022.11.27-22.01.49:244][ 84]LogOutputDevice: Error: 
+[2022.11.27-22.01.49:253][ 84]LogStats:                SubmitErrorReport -  0.000 s
+[2022.11.27-22.01.50:367][ 84]LogStats:                    SendNewReport -  1.115 s
+[2022.11.27-22.01.50:367][ 84]LogStats:             FDebug::EnsureFailed -  1.216 s
+[2022.11.27-22.08.19:629][184]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.11.27-22.08.19:630][184]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-22.10.10:100][264]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18446731254673757448
+[2022.11.27-22.10.10:100][264]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2022.11.27-22.10.41:095][264]LogSlate: Window 'Add C++ Component' being destroyed
+[2022.11.27-22.10.41:110][264]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.11.27-22.13.06:688][379]LogSlate: Window 'Add C++ Component' being destroyed
+[2022.11.27-22.13.06:701][379]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2022.11.27-22.29.33:755][704]LogDerivedDataCache: C:/Users/Film/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.398 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.27-22.30.24:855][225]LogSlate: Window 'VRPawn' being destroyed
+[2022.11.27-22.30.24:982][225]LogSlate: Window 'VRPawn' being destroyed
+[2022.11.27-22.30.24:995][225]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-22.30.24:995][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.31.12:805][938]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/VRPawn.VRPawn_C
+[2022.11.27-22.31.12:805][938]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/VRPawn.VRPawn_C
+[2022.11.27-22.31.12:813][938]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn as actor: VRPawn_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.VRPawn_C_2
+[2022.11.27-22.31.12:818][938]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn as actor: VRPawn_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.VRPawn_C_2
+[2022.11.27-22.31.16:024][982]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-22.31.16:035][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-22.31.16:035][982]PIE: New page: PIE session: VRTemplateMap (28 Nov 2022, 02:31:16)
+[2022.11.27-22.31.16:035][982]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-22.31.16:054][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018258s)
+[2022.11.27-22.31.16:054][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.018507s)
+[2022.11.27-22.31.16:054][982]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-22.31.16:054][982]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-22.31.16:055][982]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.27-22.31.16:056][982]LogPlayLevel: PIE: World Init took: (0.001753s)
+[2022.11.27-22.31.16:132][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.11.27-22.31.16:141][982]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.27-22.31.16:141][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-22.31.16:141][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-22.31.16:141][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-22.31.16:141][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-22.31.16:141][982]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-22.31.16:141][982]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-22.31.16:141][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-22.31.16:141][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-22.31.16:142][982]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-22.31.16:142][982]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-22.31.16:142][982]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-22.31.16:145][982]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-22.31.16:171][982]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.27-22.31.16:172][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-22.31.16:173][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-22.31.16:173][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-22.31.16:174][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.11.27-22.31.16:174][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.11.27-22.31.16:175][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.11.27-22.31.16:175][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.11.27-22.31.16:175][982]LogInit: FAudioDevice initialized.
+[2022.11.27-22.31.16:175][982]LogAudio: Display: Audio Device (ID: 4) registered with world 'VRTemplateMap'.
+[2022.11.27-22.31.16:196][982]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.27-22.31.16:199][982]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.28-00.31.16
+[2022.11.27-22.31.16:204][982]LogWorld: Bringing up level for play took: 0.008040
+[2022.11.27-22.31.16:207][982]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.11.27-22.31.16:208][982]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-22.31.16:209][982]PIE: Server logged in
+[2022.11.27-22.31.16:210][982]PIE: Play in editor total start time 0,176 seconds.
+[2022.11.27-22.31.16:277][982]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-22.31.30:567][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-22.31.30:567][264]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-22.31.30:569][264]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-22.31.30:570][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.31.30:659][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-22.31.30:675][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.31.30:724][264]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-22.31.30:725][264]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-22.31.30:725][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.27-22.31.30:727][264]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.27-22.31.30:731][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-22.31.30:735][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.11.27-22.31.30:776][265]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.11.27-22.31.47:170][497]Cmd: DELETE
+[2022.11.27-22.31.47:171][497]Cmd: ACTOR DELETE
+[2022.11.27-22.31.47:230][497]LogEditorActor: Deleted Actor: VRPawn_C
+[2022.11.27-22.31.47:296][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.11.27-22.31.47:298][497]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2022.11.27-22.35.22:841][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.11.27-22.35.22:841][221]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-22.37.32:691][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.27-22.37.32:718][982]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto4
+[2022.11.27-22.37.32:719][982]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/VRTemplateMap_Auto4033D4C644BB981A1C86FC5B102B99C30.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto4.umap'
+[2022.11.27-22.37.32:726][982]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.097
+[2022.11.27-22.37.32:726][982]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.097
+[2022.11.27-22.41.43:548][348]LogSlate: Window 'VRPawn' being destroyed
+[2022.11.27-22.41.43:618][348]LogSlate: Window 'VRPawn' being destroyed
+[2022.11.27-22.41.43:631][348]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-22.41.43:631][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.42.16:642][731]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.27-22.42.16:655][731]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.27-22.42.16:664][731]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.27-22.42.16:683][732]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.27-22.42.31:238][983]LogContentBrowser: Attempting asset rename: NewBlueprint -> Fashionistor
+[2022.11.27-22.42.31:485][983]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.27-22.43.14:016][613]Cmd: DELETE
+[2022.11.27-22.43.14:016][613]Cmd: ACTOR DELETE
+[2022.11.27-22.43.14:023][613]LogEditorActor: Deleted Actor: PlayerStart
+[2022.11.27-22.43.14:080][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.11.27-22.43.14:090][613]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2022.11.27-22.43.18:415][686]Cmd: DELETE
+[2022.11.27-22.43.18:416][686]Cmd: ACTOR DELETE
+[2022.11.27-22.43.18:423][686]LogEditorActor: Deleted Actor: Pistol_C
+[2022.11.27-22.43.18:488][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.11.27-22.43.18:490][686]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2022.11.27-22.43.20:394][719]Cmd: DELETE
+[2022.11.27-22.43.20:394][719]Cmd: ACTOR DELETE
+[2022.11.27-22.43.20:403][719]LogEditorActor: Deleted Actor: Pistol_C
+[2022.11.27-22.43.20:467][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.11.27-22.43.20:469][719]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2022.11.27-22.43.27:701][842]Cmd: DELETE
+[2022.11.27-22.43.27:702][842]Cmd: ACTOR DELETE
+[2022.11.27-22.43.27:706][842]LogEditorActor: Deleted Actor: VRPawn_C
+[2022.11.27-22.43.27:854][842]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.27-22.43.27:854][842]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.27-22.43.27:857][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.11.27-22.43.27:859][842]LogEditorActor: Deleted 1 Actors (0.157 secs)
+[2022.11.27-22.44.11:910][549]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.27-22.44.11:911][549]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.27-22.44.12:718][560]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor
+[2022.11.27-22.44.12:718][560]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-22.45.36:599][521]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-22.46.14:878][934]BlueprintLog: New page: Compile Fashionistor
+[2022.11.27-22.46.14:971][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.11.27-22.46.16:929][958]LogSlate: Window 'Fashionistor' being destroyed
+[2022.11.27-22.46.17:021][958]LogSlate: Window 'Fashionistor' being destroyed
+[2022.11.27-22.46.17:029][958]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-22.46.17:029][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.46.26:970][119]Cmd: DELETE
+[2022.11.27-22.46.26:970][119]Cmd: ACTOR DELETE
+[2022.11.27-22.46.26:974][119]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.27-22.46.27:023][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.11.27-22.46.27:034][119]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2022.11.27-22.46.27:040][120]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.27-22.46.34:110][231]Cmd: DELETE
+[2022.11.27-22.46.34:110][231]Cmd: ACTOR DELETE
+[2022.11.27-22.46.34:114][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.27-22.46.34:158][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.11.27-22.46.34:160][231]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.11.27-22.46.34:355][232]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.27-22.46.37:110][278]Cmd: DELETE
+[2022.11.27-22.46.37:110][278]Cmd: ACTOR DELETE
+[2022.11.27-22.46.37:115][278]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2022.11.27-22.46.37:169][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.27-22.46.37:172][278]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2022.11.27-22.46.38:217][291]Cmd: DELETE
+[2022.11.27-22.46.38:217][291]Cmd: ACTOR DELETE
+[2022.11.27-22.46.38:221][291]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2022.11.27-22.46.38:249][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.27-22.46.38:251][291]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.11.27-22.46.39:502][311]Cmd: DELETE
+[2022.11.27-22.46.39:502][311]Cmd: ACTOR DELETE
+[2022.11.27-22.46.39:509][311]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2022.11.27-22.46.39:580][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.11.27-22.46.39:582][311]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2022.11.27-22.46.40:574][326]Cmd: DELETE
+[2022.11.27-22.46.40:574][326]Cmd: ACTOR DELETE
+[2022.11.27-22.46.40:576][326]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2022.11.27-22.46.40:635][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.11.27-22.46.40:636][326]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2022.11.27-22.46.42:292][352]Cmd: DELETE
+[2022.11.27-22.46.42:293][352]Cmd: ACTOR DELETE
+[2022.11.27-22.46.42:299][352]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2022.11.27-22.46.42:366][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.11.27-22.46.42:368][352]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2022.11.27-22.46.43:479][369]Cmd: DELETE
+[2022.11.27-22.46.43:479][369]Cmd: ACTOR DELETE
+[2022.11.27-22.46.43:481][369]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2022.11.27-22.46.43:539][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.11.27-22.46.43:541][369]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2022.11.27-22.46.45:044][393]Cmd: DELETE
+[2022.11.27-22.46.45:044][393]Cmd: ACTOR DELETE
+[2022.11.27-22.46.45:051][393]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2022.11.27-22.46.45:105][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.11.27-22.46.45:108][393]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2022.11.27-22.46.46:049][407]Cmd: DELETE
+[2022.11.27-22.46.46:049][407]Cmd: ACTOR DELETE
+[2022.11.27-22.46.46:051][407]LogEditorActor: Deleted Actor: Grabbable_SmallCube_C
+[2022.11.27-22.46.46:081][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.11.27-22.46.46:083][407]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.11.27-22.46.47:460][428]Cmd: DELETE
+[2022.11.27-22.46.47:460][428]Cmd: ACTOR DELETE
+[2022.11.27-22.46.47:463][428]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.27-22.46.47:506][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.11.27-22.46.47:508][428]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2022.11.27-22.46.47:707][429]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.27-22.46.49:253][455]Cmd: DELETE
+[2022.11.27-22.46.49:253][455]Cmd: ACTOR DELETE
+[2022.11.27-22.46.49:257][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.27-22.46.49:305][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.27-22.46.49:308][455]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2022.11.27-22.46.49:499][456]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.27-22.47.10:342][802]Cmd: DELETE
+[2022.11.27-22.47.10:342][802]Cmd: ACTOR DELETE
+[2022.11.27-22.47.10:346][802]LogEditorActor: Deleted Actor: VRSpectator_C
+[2022.11.27-22.47.10:400][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.27-22.47.10:402][802]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.11.27-22.47.22:799][166]Cmd: DELETE
+[2022.11.27-22.47.22:799][166]Cmd: ACTOR DELETE
+[2022.11.27-22.47.22:806][166]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.27-22.47.22:866][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.11.27-22.47.22:869][166]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2022.11.27-22.47.23:790][192]Cmd: DELETE
+[2022.11.27-22.47.23:790][192]Cmd: ACTOR DELETE
+[2022.11.27-22.47.23:795][192]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.27-22.47.23:850][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.27-22.47.23:852][192]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2022.11.27-22.47.24:690][215]Cmd: DELETE
+[2022.11.27-22.47.24:690][215]Cmd: ACTOR DELETE
+[2022.11.27-22.47.24:692][215]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.27-22.47.24:719][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.11.27-22.47.24:722][215]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2022.11.27-22.47.25:974][249]Cmd: DELETE
+[2022.11.27-22.47.25:974][249]Cmd: ACTOR DELETE
+[2022.11.27-22.47.25:977][249]LogEditorActor: Deleted Actor: AmbientSound
+[2022.11.27-22.47.26:023][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.27-22.47.26:026][249]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.11.27-22.48.02:297][327]Cmd: DELETE
+[2022.11.27-22.48.02:297][327]Cmd: ACTOR DELETE
+[2022.11.27-22.48.02:303][327]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.27-22.48.02:362][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.11.27-22.48.02:366][327]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2022.11.27-22.48.02:373][328]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.27-22.48.03:365][359]Cmd: DELETE
+[2022.11.27-22.48.03:365][359]Cmd: ACTOR DELETE
+[2022.11.27-22.48.03:369][359]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.27-22.48.03:418][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.11.27-22.48.03:420][359]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2022.11.27-22.48.03:426][360]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.27-22.48.04:497][393]Cmd: DELETE
+[2022.11.27-22.48.04:497][393]Cmd: ACTOR DELETE
+[2022.11.27-22.48.04:500][393]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.27-22.48.04:546][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.11.27-22.48.04:548][393]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.11.27-22.48.04:556][394]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.27-22.48.05:708][430]Cmd: DELETE
+[2022.11.27-22.48.05:708][430]Cmd: ACTOR DELETE
+[2022.11.27-22.48.05:714][430]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.27-22.48.05:768][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.11.27-22.48.05:770][430]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2022.11.27-22.48.05:776][431]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.27-22.48.06:775][462]Cmd: DELETE
+[2022.11.27-22.48.06:776][462]Cmd: ACTOR DELETE
+[2022.11.27-22.48.06:782][462]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.27-22.48.06:844][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.11.27-22.48.06:846][462]LogEditorActor: Deleted 1 Actors (0.070 secs)
+[2022.11.27-22.48.06:854][463]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.27-22.48.08:000][498]Cmd: DELETE
+[2022.11.27-22.48.08:000][498]Cmd: ACTOR DELETE
+[2022.11.27-22.48.08:003][498]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.27-22.48.08:048][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.11.27-22.48.08:050][498]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2022.11.27-22.48.08:057][499]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2022.11.27-22.48.49:123][732]Cmd: DELETE
+[2022.11.27-22.48.49:123][732]Cmd: ACTOR DELETE
+[2022.11.27-22.48.49:127][732]LogEditorActor: Deleted Actor: PointLight
+[2022.11.27-22.48.49:171][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.11.27-22.48.49:174][732]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2022.11.27-22.48.50:483][771]Cmd: DELETE
+[2022.11.27-22.48.50:483][771]Cmd: ACTOR DELETE
+[2022.11.27-22.48.50:487][771]LogEditorActor: Deleted Actor: PointLight
+[2022.11.27-22.48.50:553][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.11.27-22.48.50:555][771]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2022.11.27-22.49.48:188][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.11.27-22.49.48:203][478]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto5
+[2022.11.27-22.49.48:203][478]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/VRTemplateMap_Auto5BCFE45524E2C560F8538E9B7A5F3070F.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto5.umap'
+[2022.11.27-22.49.48:210][478]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.080
+[2022.11.27-22.49.48:211][478]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2022.11.27-22.50.57:542][483]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor
+[2022.11.27-22.50.57:542][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-22.51.42:100][372]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-22.51.51:798][567]LogEditorTransaction: Undo Attach Component
+[2022.11.27-22.55.03:516][397]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2022.11.27-22.55.03:517][397]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2022.11.27-22.55.03:518][397]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2022.11.27-22.55.19:830][720]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.27-22.55.20:830][741]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.55.20:830][741]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.55.23:380][789]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/TransformGizmo: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/TransformGizmo' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.55.23:380][789]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/LaserPointer/CursorPointer.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.55.25:173][823]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes/AssetViewer/Floor_Mesh.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes/AssetViewer/Floor_Mesh.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.55.25:173][823]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.55.25:173][823]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.55.25:173][823]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveFocus/HTCViveFocusController.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveFocus/HTCViveFocusController.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.55.27:916][879]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveFocusPlus/HTCViveFocusPlusController.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveFocusPlus/HTCViveFocusPlusController.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.55.27:916][879]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveCosmos/Left/left_HTCViveCosmosController.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveCosmos/Left/left_HTCViveCosmosController.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.55.27:916][879]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveCosmos/Right/right_HTCViveCosmosController.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveCosmos/Right/right_HTCViveCosmosController.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.55.38:175][ 87]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Vive/ViveControllerMesh.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Vive/ViveControllerMesh.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.55.40:341][131]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Vive/VivePreController_Trimlines.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Vive/VivePreController_Trimlines.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.55.41:416][153]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.55.46:506][253]LogMaterial: Display: Missing cached shadermap for M_ViveControllerTrim in PCD3D_SM5, Default, SM5 (DDC key hash: 000FDEA88B95D784FEBAAD0BAA4FAEF21F5A8809), compiling. 
+[2022.11.27-22.55.46:581][253]LogMaterial: Display: Missing cached shadermap for M_ViveControllerTrim_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: EAD8922E8DE6E06F9284100C55C0DC18846061DA), compiling. 
+[2022.11.27-22.55.47:942][283]LogShaderCompilers: Display: ================================================
+[2022.11.27-22.55.47:942][283]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: Total job queries 60, among them cache hits 0 (0.00%)
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 30 distinct outputs (78.95%)
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: RAM used: 0.18 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: Shaders Compiled: 60
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: Jobs assigned 54, completed 38 (70.37%)
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: Average time worker was idle: 9436.28 s
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: Time job spent in pending queue: average 7.60 s, longest 37.35 s
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: Job execution time: average 16.19 s, max 23.56 s
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: Job life time (pending + execution): average 26.88 s, max 38.97
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 40.50 s
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: Jobs were issued in 17 batches (only local compilation was used), average 3.18 jobs/batch
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: Average processing rate: 0.94 jobs/sec
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: Effective parallelization: 3.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 6.10 sec, max 6.21 sec, min 5.98 sec)
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    1 times, average 6.09 sec, max 6.09 sec, min 6.09 sec)
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 6.08 sec, max 6.28 sec, min 5.87 sec)
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    1 times, average 6.02 sec, max 6.02 sec, min 6.02 sec)
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 5.97 sec, max 6.23 sec, min 5.70 sec)
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.05% of total time (compiled    3 times, average 4.10 sec, max 5.80 sec, min 0.98 sec)
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.97% of total time (compiled    2 times, average 6.10 sec, max 6.21 sec, min 5.98 sec)
+[2022.11.27-22.55.47:943][283]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.94% of total time (compiled    2 times, average 6.08 sec, max 6.28 sec, min 5.87 sec)
+[2022.11.27-22.55.47:944][283]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.80% of total time (compiled    2 times, average 5.97 sec, max 6.23 sec, min 5.70 sec)
+[2022.11.27-22.55.47:944][283]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 7.60% of total time (compiled    2 times, average 5.81 sec, max 5.94 sec, min 5.68 sec)
+[2022.11.27-22.55.47:944][283]LogShaderCompilers: Display: ================================================
+[2022.11.27-22.57.13:927][918]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2022.11.27-22.57.13:928][918]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2022.11.27-22.57.13:929][918]LogMotionControllerComponent: Warning: Failed to create a custom display component for the MotionController since no mesh was specified.
+[2022.11.27-22.57.17:438][989]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/Functions/Engine_MaterialFunctions02/SupportFiles' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.57.17:438][989]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/EditorMeshes' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.57.20:121][ 39]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.57.20:121][ 39]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveFocus/HTCViveFocusController.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveFocus/HTCViveFocusController.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.57.20:781][ 51]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveFocusPlus/HTCViveFocusPlusController.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveFocusPlus/HTCViveFocusPlusController.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.57.20:781][ 51]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveCosmos/Left/left_HTCViveCosmosController.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveCosmos/Left/left_HTCViveCosmosController.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.57.20:781][ 51]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveCosmos/Right/right_HTCViveCosmosController.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCViveCosmos/Right/right_HTCViveCosmosController.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.57.22:100][ 78]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Vive/ViveControllerMesh.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Vive/ViveControllerMesh.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.57.22:660][ 88]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Vive/VivePreController_Trimlines.uasset: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Vive/VivePreController_Trimlines.uasset' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.57.26:604][161]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/TransformGizmo: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/TransformGizmo' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.57.26:604][161]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Vive: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Vive' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.57.28:860][203]LogMaterial: Display: Missing cached shadermap for VivePreControllerMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 246E1B3C18C89315DBF40ADC04C00EA67DBAA064), compiling. 
+[2022.11.27-22.57.36:027][345]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/TransformGizmo: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/TransformGizmo' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.57.36:027][345]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Vive: 'C:/Program Files/Epic Games/UE_5.0/Engine/Content/VREditor/Devices/Vive' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-22.57.39:856][419]BlueprintLog: New page: Compile Fashionistor
+[2022.11.27-22.57.39:970][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.11.27-22.57.41:512][443]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Fashionistor
+[2022.11.27-22.57.41:512][443]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Fashionistor1C1DFCD94D36772766F95D82B3884D41.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Content/VRTemplate/Blueprints/Fashionistor.uasset'
+[2022.11.27-22.57.41:713][443]AssetCheck: New page: Asset Save: Fashionistor
+[2022.11.27-22.57.41:714][443]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor
+[2022.11.27-22.58.35:029][493]BlueprintLog: New page: Compile Fashionistor
+[2022.11.27-22.58.35:102][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.11.27-22.58.36:876][524]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Fashionistor
+[2022.11.27-22.58.36:876][524]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/FashionistorFE6BB37C4670FF1F2F29A5996314E126.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Content/VRTemplate/Blueprints/Fashionistor.uasset'
+[2022.11.27-22.58.36:898][524]AssetCheck: New page: Asset Save: Fashionistor
+[2022.11.27-22.58.36:898][524]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor
+[2022.11.27-22.59.40:745][760]LogSlate: Window 'Fashionistor' being destroyed
+[2022.11.27-22.59.40:815][760]LogSlate: Window 'Fashionistor' being destroyed
+[2022.11.27-22.59.40:825][760]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-22.59.40:825][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-22.59.49:277][989]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor_C
+[2022.11.27-22.59.49:277][989]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor_C
+[2022.11.27-22.59.49:284][989]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor as actor: Fashionistor_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fashionistor_C_0
+[2022.11.27-22.59.49:289][989]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor as actor: Fashionistor_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fashionistor_C_0
+[2022.11.27-22.59.56:884][181]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor_C
+[2022.11.27-22.59.56:884][181]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor_C
+[2022.11.27-22.59.56:888][181]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor as actor: Fashionistor_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fashionistor_C_1
+[2022.11.27-22.59.56:890][181]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor as actor: Fashionistor_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fashionistor_C_1
+[2022.11.27-22.59.56:987][181]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-23.00.02:090][279]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-23.00.02:099][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-23.00.02:099][279]PIE: New page: PIE session: VRTemplateMap (28 Nov 2022, 03:00:02)
+[2022.11.27-23.00.02:099][279]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.00.02:107][279]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007321s)
+[2022.11.27-23.00.02:107][279]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007420s)
+[2022.11.27-23.00.02:107][279]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-23.00.02:107][279]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-23.00.02:108][279]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.27-23.00.02:108][279]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2022.11.27-23.00.02:171][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.11.27-23.00.02:178][279]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.11.27-23.00.02:178][279]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-23.00.02:179][279]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-23.00.02:179][279]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-23.00.02:179][279]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-23.00.02:179][279]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-23.00.02:179][279]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-23.00.02:179][279]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-23.00.02:179][279]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-23.00.02:179][279]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-23.00.02:179][279]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-23.00.02:179][279]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-23.00.02:181][279]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-23.00.02:208][279]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.27-23.00.02:208][279]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-23.00.02:208][279]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-23.00.02:208][279]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-23.00.02:209][279]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.11.27-23.00.02:209][279]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.11.27-23.00.02:211][279]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.11.27-23.00.02:211][279]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.11.27-23.00.02:211][279]LogInit: FAudioDevice initialized.
+[2022.11.27-23.00.02:211][279]LogAudio: Display: Audio Device (ID: 5) registered with world 'VRTemplateMap'.
+[2022.11.27-23.00.02:228][279]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.27-23.00.02:229][279]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.28-01.00.02
+[2022.11.27-23.00.02:234][279]LogWorld: Bringing up level for play took: 0.006337
+[2022.11.27-23.00.02:237][279]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2022.11.27-23.00.02:239][279]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-23.00.02:241][279]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.00.02:241][279]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.00.02:243][279]PIE: Server logged in
+[2022.11.27-23.00.02:244][279]PIE: Play in editor total start time 0,144 seconds.
+[2022.11.27-23.00.02:285][279]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-23.00.23:850][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.00.23:850][ 49]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.00.23:851][ 49]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-23.00.23:852][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.00.23:888][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-23.00.23:905][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.00.23:952][ 49]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-23.00.23:952][ 49]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-23.00.23:952][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.11.27-23.00.23:954][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.11.27-23.00.23:958][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.00.23:959][ 49]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.27-23.00.23:959][ 49]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.00.23:961][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.11.27-23.00.23:969][ 49]LogActorComponent: ReregisterComponent: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fire_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2022.11.27-23.00.24:043][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.11.27-23.00.24:096][ 50]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-23.00.28:328][130]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor
+[2022.11.27-23.00.28:328][130]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-23.00.59:743][581]BlueprintLog: New page: Compile Fashionistor
+[2022.11.27-23.00.59:888][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.11.27-23.00.59:925][581]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-23.01.00:036][582]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-23.01.01:346][599]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/Fashionistor
+[2022.11.27-23.01.01:347][599]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Fashionistor5DA6C0FE461F42C2D4EE45BA685DAB2B.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Content/VRTemplate/Blueprints/Fashionistor.uasset'
+[2022.11.27-23.01.01:363][599]AssetCheck: New page: Asset Save: Fashionistor
+[2022.11.27-23.01.01:363][599]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor
+[2022.11.27-23.01.07:408][692]LogSlate: Window 'Fashionistor' being destroyed
+[2022.11.27-23.01.07:485][692]LogSlate: Window 'Fashionistor' being destroyed
+[2022.11.27-23.01.07:490][692]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-23.01.07:490][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.01.26:879][ 62]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor
+[2022.11.27-23.01.26:879][ 62]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-23.01.50:285][393]LogSlate: Window 'Fashionistor' being destroyed
+[2022.11.27-23.01.50:292][393]LogSlate: Window 'Fashionistor' being destroyed
+[2022.11.27-23.01.50:297][393]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-23.01.50:297][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.01.57:099][560]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-23.03.18:808][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.11.27-23.03.18:826][ 17]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto6
+[2022.11.27-23.03.18:826][ 17]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/VRTemplateMap_Auto60251B8944836D79B3024F4B75FAB1CD1.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto6.umap'
+[2022.11.27-23.03.18:832][ 17]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.068
+[2022.11.27-23.03.18:832][ 17]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2022.11.27-23.03.37:327][340]Running C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Seefitbuy.uproject" -game -rocket -progress
+[2022.11.27-23.03.37:430][340]A fatal error occurred. The required library hostfxr.dll could not be found.
+[2022.11.27-23.03.37:430][340]If this is a self-contained application, that library should exist in [C:\Program Files\Epic Games\UE_5.0\Engine\Binaries\DotNET\UnrealBuildTool\].
+[2022.11.27-23.03.37:430][340]If this is a framework-dependent application, install the runtime in the global location [C:\Program Files\dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [HKLM\SOFTWARE\dotnet\Setup\InstalledVersions\x64\InstallLocation].
+[2022.11.27-23.03.37:430][340]
+[2022.11.27-23.03.37:430][340]The .NET Core runtime can be found at:
+[2022.11.27-23.03.37:430][340]  - https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win10-x64
+[2022.11.27-23.03.58:904][340]LogSlate: Window 'Message' being destroyed
+[2022.11.27-23.03.58:913][340]Message dialog closed, result: No, title: Message, text: Successfully added class 'MyPlayerController', however you must recompile the 'Seefitbuy' module before it will appear in the Content Browser. Failed to generate project files.
+
+Would you like to open the Output Log to see more details?
+[2022.11.27-23.03.58:913][340]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.11.27-23.04.55:649][540]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2022.11.27-23.04.55:657][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:657][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:657][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:658][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:658][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:658][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:658][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:658][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:658][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:658][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:658][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:658][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:658][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:659][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:659][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:659][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:659][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:659][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:659][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:659][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:659][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:659][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:659][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:659][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:660][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:660][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:660][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:660][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:660][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:660][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:660][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:660][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:660][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:660][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:661][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:661][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:661][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:661][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:661][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:661][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:661][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:661][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:661][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:661][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:661][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:662][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:662][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:662][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:662][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:662][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:662][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:662][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:662][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:662][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:662][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:662][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:663][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:663][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:663][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:663][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:663][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:663][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:663][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:663][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:663][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:663][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:663][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:664][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:664][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:664][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:664][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:664][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:664][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:664][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:664][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:664][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:664][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:664][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:665][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:665][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:665][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:665][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:665][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:665][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:665][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:665][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:665][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:665][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:666][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:666][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:666][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:666][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:666][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:666][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:709][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:709][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:709][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:713][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:713][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:715][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:715][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:715][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:715][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:715][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:720][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:721][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:731][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:747][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:758][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:759][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:861][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:861][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:955][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:955][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:955][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:955][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:955][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:955][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:955][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:956][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:956][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.55:983][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.56:035][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.56:035][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.56:035][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.56:035][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.56:288][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.56:288][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.56:292][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.56:522][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.56:551][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.04.56:552][540]LogVSAccessor: Warning: Couldn't access module table
+[2022.11.27-23.11.01:594][837]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/InteractiveToolsFramework/Public/BaseGizmos/PlanePositionGizmo.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/InteractiveToolsFramework/Public/BaseGizmos/PlanePositionGizmo.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.01:594][837]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Engine: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Engine' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.01:594][837]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Components: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Components' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.01:594][837]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Editor/ViewportInteraction/Public/ViewportInteractionDragOperations.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Editor/ViewportInteraction/Public/ViewportInteractionDragOperations.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.01:594][837]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Kismet/BlueprintPlatformLibrary.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Kismet/BlueprintPlatformLibrary.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.01:594][837]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/MediaAssets/Public/PlatformMediaSource.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/MediaAssets/Public/PlatformMediaSource.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.01:594][837]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/DeveloperSettings/Public/Engine: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/DeveloperSettings/Public/Engine' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.01:594][837]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Camera/PlayerCameraManager.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Camera/PlayerCameraManager.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.01:594][837]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/GameFramework: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/GameFramework' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.07:096][939]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/HeadMountedDisplay/Public/HeadMountedDisplayFunctionLibrary.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/HeadMountedDisplay/Public/HeadMountedDisplayFunctionLibrary.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.07:096][939]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Matinee: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Matinee' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.07:096][939]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Editor/GameplayTasksEditor/Classes/K2Node_LatentGameplayTaskCall.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Editor/GameplayTasksEditor/Classes/K2Node_LatentGameplayTaskCall.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.07:096][939]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Editor/UMGEditor/Private/Nodes/K2Node_PlayAnimation.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Editor/UMGEditor/Private/Nodes/K2Node_PlayAnimation.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.07:096][939]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Editor/AnimGraph/Public/K2Node_PlayMontage.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Editor/AnimGraph/Public/K2Node_PlayMontage.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.07:096][939]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Editor/UnrealEd/Classes/Settings/LevelEditorPlaySettings.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Editor/UnrealEd/Classes/Settings/LevelEditorPlaySettings.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.07:200][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/LevelSequence/Public/LevelSequencePlayer.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/LevelSequence/Public/LevelSequencePlayer.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.07:201][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Engine/LocalPlayer.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Engine/LocalPlayer.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.07:201][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Public/Subsystems/LocalPlayerSubsystem.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Public/Subsystems/LocalPlayerSubsystem.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.07:201][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/MediaAssets/Public: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/MediaAssets/Public' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.07:201][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Developer/AITestSuite/Classes/MockGameplayTasks.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Developer/AITestSuite/Classes/MockGameplayTasks.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.07:201][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/HeadMountedDisplay/Public/MotionControllerComponent.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/HeadMountedDisplay/Public/MotionControllerComponent.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.16:351][110]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/HeadMountedDisplay/Public/MotionTrackedDeviceFunctionLibrary.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/HeadMountedDisplay/Public/MotionTrackedDeviceFunctionLibrary.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.16:351][110]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/MoviePlayer/Public/MoviePlayerSettings.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/MoviePlayer/Public/MoviePlayerSettings.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.16:351][110]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/MovieScene/Public: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/MovieScene/Public' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.16:351][110]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Particles/ParticleSystemReplay.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Particles/ParticleSystemReplay.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.16:351][110]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Engine/Player.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Engine/Player.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.16:351][110]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Camera/PlayerCameraManager.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Camera/PlayerCameraManager.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.16:351][110]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/GameFramework/PlayerController.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/GameFramework/PlayerController.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.18:190][144]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/GameFramework: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/GameFramework' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.18:190][144]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Engine/PlayerStartPIE.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Engine/PlayerStartPIE.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.18:190][144]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/AnimGraphRuntime/Public/PlayMontageCallbackProxy.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/AnimGraphRuntime/Public/PlayMontageCallbackProxy.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.18:190][144]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Editor/ConfigEditor/Public/ConfigPropertyHelper.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Editor/ConfigEditor/Public/ConfigPropertyHelper.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.18:190][144]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Public: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Public' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.29:028][342]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagsSettings.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagsSettings.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.29:028][342]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/AnimGraphRuntime/Public/SequencePlayerLibrary.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/AnimGraphRuntime/Public/SequencePlayerLibrary.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.29:028][342]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Sound: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Classes/Sound' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.29:028][342]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/UMG/Public/Animation: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/UMG/Public/Animation' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.29:028][342]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/HeadMountedDisplay/Public/VRNotificationsComponent.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/HeadMountedDisplay/Public/VRNotificationsComponent.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.29:028][342]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Public/WorldPartition/WorldPartitionReplay.h: 'C:/Program Files/Epic Games/UE_5.0/Engine/Source/Runtime/Engine/Public/WorldPartition/WorldPartitionReplay.h' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.11.32:961][402]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.27-23.11.32:961][402]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.27-23.11.32:965][402]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PlayerStart_0
+[2022.11.27-23.11.32:966][402]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.27-23.11.32:967][402]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PlayerStart_0
+[2022.11.27-23.11.32:968][402]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.27-23.11.34:390][424]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.27-23.11.34:390][424]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.27-23.11.34:391][424]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PlayerStart_1
+[2022.11.27-23.11.34:391][424]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.27-23.11.34:391][424]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PlayerStart_1
+[2022.11.27-23.11.34:392][424]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.27-23.11.43:921][606]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.27-23.11.43:921][606]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.27-23.11.43:922][606]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PlayerStart_2
+[2022.11.27-23.11.43:922][606]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.27-23.11.43:922][606]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PlayerStart_2
+[2022.11.27-23.11.43:923][606]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.27-23.12.05:119][ 19]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.27-23.12.05:120][ 19]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.27-23.12.05:121][ 19]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PlayerStart_3
+[2022.11.27-23.12.05:122][ 19]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.27-23.12.05:122][ 19]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PlayerStart_3
+[2022.11.27-23.12.05:124][ 19]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.27-23.12.07:819][ 72]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.27-23.12.07:819][ 72]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.11.27-23.12.07:823][ 72]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PlayerStart_4
+[2022.11.27-23.12.07:823][ 72]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.27-23.12.07:825][ 72]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.PlayerStart_4
+[2022.11.27-23.12.07:826][ 72]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.27-23.12.50:717][360]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-23.13.22:367][943]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.11.27-23.13.22:393][943]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto7
+[2022.11.27-23.13.22:393][943]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/VRTemplateMap_Auto7E46DC5D64E41023240057E980B67AB20.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto7.umap'
+[2022.11.27-23.13.22:399][943]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.098
+[2022.11.27-23.13.22:399][943]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.098
+[2022.11.27-23.25.34:629][ 37]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor
+[2022.11.27-23.25.34:629][ 37]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-23.26.18:763][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.11.27-23.26.32:411][912]LogSlate: Window 'Fashionistor' being destroyed
+[2022.11.27-23.26.32:483][912]LogSlate: Window 'Fashionistor' being destroyed
+[2022.11.27-23.26.32:489][912]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-23.26.32:489][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.26.46:153][286]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor_C
+[2022.11.27-23.26.46:153][286]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor_C
+[2022.11.27-23.26.46:157][286]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor as actor: Fashionistor_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fashionistor_C_2
+[2022.11.27-23.26.46:159][286]LogActorFactory: Actor Factory spawned Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor as actor: Fashionistor_C /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fashionistor_C_2
+[2022.11.27-23.26.46:326][286]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-23.26.48:240][328]Cmd: TRANSACTION UNDO
+[2022.11.27-23.26.48:240][328]LogEditorTransaction: Undo Create Actor
+[2022.11.27-23.27.02:429][723]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-23.27.07:960][833]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-23.27.07:969][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-23.27.07:969][833]PIE: New page: PIE session: VRTemplateMap (28 Nov 2022, 03:27:07)
+[2022.11.27-23.27.07:969][833]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.27.07:976][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007010s)
+[2022.11.27-23.27.07:976][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007108s)
+[2022.11.27-23.27.07:976][833]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-23.27.07:976][833]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-23.27.07:977][833]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.27-23.27.07:977][833]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2022.11.27-23.27.08:027][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.11.27-23.27.08:036][833]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.11.27-23.27.08:036][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-23.27.08:036][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-23.27.08:036][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-23.27.08:036][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-23.27.08:036][833]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-23.27.08:036][833]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-23.27.08:036][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-23.27.08:036][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-23.27.08:037][833]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-23.27.08:037][833]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-23.27.08:037][833]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-23.27.08:039][833]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-23.27.08:064][833]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.27-23.27.08:065][833]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-23.27.08:065][833]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-23.27.08:065][833]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-23.27.08:066][833]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.11.27-23.27.08:066][833]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.11.27-23.27.08:068][833]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.11.27-23.27.08:068][833]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.11.27-23.27.08:068][833]LogInit: FAudioDevice initialized.
+[2022.11.27-23.27.08:068][833]LogAudio: Display: Audio Device (ID: 6) registered with world 'VRTemplateMap'.
+[2022.11.27-23.27.08:086][833]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.27-23.27.08:088][833]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.28-01.27.08
+[2022.11.27-23.27.08:088][833]LogWorld: Bringing up level for play took: 0.001523
+[2022.11.27-23.27.08:090][833]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.11.27-23.27.08:091][833]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-23.27.08:092][833]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.27.08:092][833]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.27.08:093][833]PIE: Server logged in
+[2022.11.27-23.27.08:094][833]PIE: Play in editor total start time 0,125 seconds.
+[2022.11.27-23.27.08:163][833]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-23.27.38:834][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.27.38:834][ 14]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.27.38:835][ 14]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-23.27.38:836][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.27.38:879][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-23.27.38:895][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.27.38:945][ 14]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-23.27.38:946][ 14]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-23.27.38:946][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.11.27-23.27.38:947][ 14]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.11.27-23.27.38:951][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.27.38:953][ 14]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.27-23.27.38:953][ 14]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.27.38:955][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.11.27-23.27.38:961][ 14]LogActorComponent: ReregisterComponent: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fire_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2022.11.27-23.27.39:037][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.11.27-23.27.39:124][ 15]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-23.27.45:358][139]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.27-23.27.45:524][139]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.27-23.27.46:964][140]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.29.33:756][829]LogDerivedDataCache: C:/Users/Film/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.399 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.27-23.29.45:529][ 21]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/Film/Documents/Unreal Projects/Hack-of-a-Team'
+[2022.11.27-23.31.08:770][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.11.27-23.31.08:787][321]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto8
+[2022.11.27-23.31.08:787][321]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/VRTemplateMap_Auto8AFB10C2D4B65A492864F54BA669EECC5.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto8.umap'
+[2022.11.27-23.31.08:793][321]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.144
+[2022.11.27-23.31.08:793][321]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.144
+[2022.11.27-23.32.23:734][655]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.27-23.32.23:817][655]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.27-23.32.27:912][738]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-23.32.27:921][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-23.32.27:921][738]PIE: New page: PIE session: VRTemplateMap (28 Nov 2022, 03:32:27)
+[2022.11.27-23.32.27:921][738]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.32.27:931][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010216s)
+[2022.11.27-23.32.27:931][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.010314s)
+[2022.11.27-23.32.27:931][738]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-23.32.27:931][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-23.32.27:932][738]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.27-23.32.27:932][738]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2022.11.27-23.32.28:035][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.11.27-23.32.28:058][738]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.11.27-23.32.28:058][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-23.32.28:058][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-23.32.28:058][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-23.32.28:058][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-23.32.28:058][738]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-23.32.28:058][738]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-23.32.28:058][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-23.32.28:058][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-23.32.28:059][738]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-23.32.28:059][738]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-23.32.28:059][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-23.32.28:061][738]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-23.32.28:087][738]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.27-23.32.28:088][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-23.32.28:088][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-23.32.28:088][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-23.32.28:089][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.11.27-23.32.28:089][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.11.27-23.32.28:091][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.11.27-23.32.28:091][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.11.27-23.32.28:091][738]LogInit: FAudioDevice initialized.
+[2022.11.27-23.32.28:091][738]LogAudio: Display: Audio Device (ID: 7) registered with world 'VRTemplateMap'.
+[2022.11.27-23.32.28:106][738]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.27-23.32.28:108][738]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.28-01.32.28
+[2022.11.27-23.32.28:108][738]LogWorld: Bringing up level for play took: 0.001631
+[2022.11.27-23.32.28:111][738]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2022.11.27-23.32.28:112][738]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-23.32.28:113][738]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.32.28:113][738]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.32.28:114][738]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2022.11.27-23.32.28:114][738]PIE: Server logged in
+[2022.11.27-23.32.28:115][738]PIE: Play in editor total start time 0,195 seconds.
+[2022.11.27-23.32.28:186][738]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-23.32.45:412][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.32.45:413][402]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.32.45:414][402]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-23.32.45:414][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.32.45:449][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-23.32.45:465][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.32.45:515][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.32.45:516][402]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-23.32.45:516][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.11.27-23.32.45:518][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.11.27-23.32.45:523][402]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.27-23.32.45:523][402]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.32.45:525][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.11.27-23.32.45:536][402]LogActorComponent: ReregisterComponent: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fire_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2022.11.27-23.32.45:610][403]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.11.27-23.32.45:700][403]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-23.32.48:342][460]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-23.32.48:350][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-23.32.48:350][460]PIE: New page: PIE session: VRTemplateMap (28 Nov 2022, 03:32:48)
+[2022.11.27-23.32.48:350][460]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.32.48:356][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006486s)
+[2022.11.27-23.32.48:356][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.006580s)
+[2022.11.27-23.32.48:357][460]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-23.32.48:357][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-23.32.48:357][460]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.27-23.32.48:358][460]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2022.11.27-23.32.48:392][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.27-23.32.48:395][460]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.11.27-23.32.48:395][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-23.32.48:395][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-23.32.48:395][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-23.32.48:395][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-23.32.48:395][460]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-23.32.48:395][460]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-23.32.48:395][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-23.32.48:395][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-23.32.48:396][460]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-23.32.48:396][460]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-23.32.48:396][460]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-23.32.48:398][460]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-23.32.48:423][460]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.27-23.32.48:424][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-23.32.48:424][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-23.32.48:424][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-23.32.48:424][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.11.27-23.32.48:424][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.11.27-23.32.48:426][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.11.27-23.32.48:426][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.11.27-23.32.48:426][460]LogInit: FAudioDevice initialized.
+[2022.11.27-23.32.48:426][460]LogAudio: Display: Audio Device (ID: 8) registered with world 'VRTemplateMap'.
+[2022.11.27-23.32.48:440][460]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.27-23.32.48:442][460]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.28-01.32.48
+[2022.11.27-23.32.48:442][460]LogWorld: Bringing up level for play took: 0.001625
+[2022.11.27-23.32.48:445][460]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2022.11.27-23.32.48:446][460]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-23.32.48:447][460]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.32.48:447][460]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.32.48:448][460]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2022.11.27-23.32.48:448][460]PIE: Server logged in
+[2022.11.27-23.32.48:449][460]PIE: Play in editor total start time 0,099 seconds.
+[2022.11.27-23.32.48:499][460]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-23.33.01:912][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.33.01:912][  6]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.33.01:913][  6]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-23.33.01:913][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.33.01:950][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-23.33.01:960][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.33.01:999][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.33.02:000][  6]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-23.33.02:000][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.11.27-23.33.02:002][  6]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.11.27-23.33.02:007][  6]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.27-23.33.02:007][  6]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.33.02:009][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.11.27-23.33.02:015][  6]LogActorComponent: ReregisterComponent: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fire_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2022.11.27-23.33.02:088][  7]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.11.27-23.33.02:176][  7]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-23.33.10:878][180]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.27-23.33.10:986][180]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.27-23.34.14:278][201]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.27-23.34.14:361][201]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.27-23.34.16:173][237]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-23.34.16:182][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-23.34.16:183][237]PIE: New page: PIE session: VRTemplateMap (28 Nov 2022, 03:34:16)
+[2022.11.27-23.34.16:183][237]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.34.16:190][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006896s)
+[2022.11.27-23.34.16:190][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.006993s)
+[2022.11.27-23.34.16:190][237]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-23.34.16:190][237]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-23.34.16:190][237]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.27-23.34.16:191][237]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2022.11.27-23.34.16:220][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.11.27-23.34.16:224][237]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.11.27-23.34.16:224][237]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-23.34.16:224][237]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-23.34.16:224][237]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-23.34.16:224][237]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-23.34.16:224][237]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-23.34.16:224][237]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-23.34.16:224][237]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-23.34.16:224][237]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-23.34.16:225][237]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-23.34.16:225][237]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-23.34.16:225][237]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-23.34.16:228][237]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-23.34.16:253][237]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.27-23.34.16:253][237]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-23.34.16:253][237]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-23.34.16:253][237]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-23.34.16:254][237]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.11.27-23.34.16:254][237]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.11.27-23.34.16:256][237]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.11.27-23.34.16:256][237]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.11.27-23.34.16:256][237]LogInit: FAudioDevice initialized.
+[2022.11.27-23.34.16:256][237]LogAudio: Display: Audio Device (ID: 9) registered with world 'VRTemplateMap'.
+[2022.11.27-23.34.16:272][237]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.27-23.34.16:273][237]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.28-01.34.16
+[2022.11.27-23.34.16:274][237]LogWorld: Bringing up level for play took: 0.001806
+[2022.11.27-23.34.16:276][237]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2022.11.27-23.34.16:277][237]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-23.34.16:278][237]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.34.16:279][237]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.34.16:279][237]PIE: Server logged in
+[2022.11.27-23.34.16:280][237]PIE: Play in editor total start time 0,098 seconds.
+[2022.11.27-23.34.16:322][237]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-23.34.22:312][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.34.22:312][480]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.34.22:313][480]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-23.34.22:313][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.34.22:353][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-23.34.22:362][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.34.22:398][480]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.27-23.34.22:398][480]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-23.34.22:399][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.11.27-23.34.22:401][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.11.27-23.34.22:405][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.34.22:406][480]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.27-23.34.22:407][480]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.34.22:408][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.11.27-23.34.22:414][480]LogActorComponent: ReregisterComponent: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fire_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2022.11.27-23.34.22:489][481]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.11.27-23.34.22:576][481]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.27-23.35.21:997][621]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.27-23.36.01:057][427]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.27-23.36.01:207][427]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.27-23.39.09:528][484]Cmd: TRANSACTION UNDO
+[2022.11.27-23.39.09:528][484]LogEditorTransaction: Undo Delete Child
+[2022.11.27-23.39.10:651][498]Cmd: TRANSACTION UNDO
+[2022.11.27-23.39.10:651][498]LogEditorTransaction: Undo Delete Child
+[2022.11.27-23.39.12:076][521]Cmd: TRANSACTION UNDO
+[2022.11.27-23.39.12:076][521]LogEditorTransaction: Undo Delete Child
+[2022.11.27-23.39.48:414][110]Cmd: TRANSACTION UNDO
+[2022.11.27-23.39.48:415][110]LogEditorTransaction: Undo Change Key Value
+[2022.11.27-23.47.59:347][670]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.11.27-23.49.33:767][216]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.27-23.49.33:849][216]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.27-23.49.35:659][253]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-23.49.35:668][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-23.49.35:668][253]PIE: New page: PIE session: VRTemplateMap (28 Nov 2022, 03:49:35)
+[2022.11.27-23.49.35:669][253]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.49.35:676][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007355s)
+[2022.11.27-23.49.35:676][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007471s)
+[2022.11.27-23.49.35:676][253]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-23.49.35:676][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-23.49.35:677][253]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.27-23.49.35:677][253]LogPlayLevel: PIE: World Init took: (0.001349s)
+[2022.11.27-23.49.35:714][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.11.27-23.49.35:719][253]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.11.27-23.49.35:720][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-23.49.35:720][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-23.49.35:720][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-23.49.35:720][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-23.49.35:720][253]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-23.49.35:720][253]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-23.49.35:720][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-23.49.35:720][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-23.49.35:720][253]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-23.49.35:720][253]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-23.49.35:720][253]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-23.49.35:722][253]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-23.49.35:748][253]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.27-23.49.35:749][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-23.49.35:749][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-23.49.35:749][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-23.49.35:750][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.11.27-23.49.35:750][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.11.27-23.49.35:752][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.11.27-23.49.35:752][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.11.27-23.49.35:752][253]LogInit: FAudioDevice initialized.
+[2022.11.27-23.49.35:752][253]LogAudio: Display: Audio Device (ID: 10) registered with world 'VRTemplateMap'.
+[2022.11.27-23.49.35:775][253]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.27-23.49.35:776][253]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.28-01.49.35
+[2022.11.27-23.49.35:776][253]LogWorld: Bringing up level for play took: 0.001641
+[2022.11.27-23.49.35:779][253]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2022.11.27-23.49.35:780][253]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-23.49.35:781][253]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.49.35:782][253]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.49.35:782][253]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2022.11.27-23.49.35:782][253]PIE: Server logged in
+[2022.11.27-23.49.35:783][253]PIE: Play in editor total start time 0,115 seconds.
+[2022.11.27-23.49.35:844][253]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-23.50.53:427][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.50.53:428][456]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.50.53:428][456]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-23.50.53:428][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.50.53:450][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-23.50.53:459][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.50.53:518][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.50.53:519][456]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-23.50.53:519][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.11.27-23.50.53:522][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.11.27-23.50.53:528][456]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.27-23.50.53:528][456]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.50.53:530][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.11.27-23.50.53:536][456]LogActorComponent: ReregisterComponent: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fire_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2022.11.27-23.50.53:598][457]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.11.27-23.51.01:400][621]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.27-23.51.01:510][621]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.27-23.55.23:314][815]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.27-23.55.23:400][815]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.27-23.55.30:073][948]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-23.55.30:081][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-23.55.30:082][948]PIE: New page: PIE session: VRTemplateMap (28 Nov 2022, 03:55:30)
+[2022.11.27-23.55.30:082][948]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.55.30:089][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007463s)
+[2022.11.27-23.55.30:089][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007566s)
+[2022.11.27-23.55.30:089][948]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-23.55.30:089][948]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-23.55.30:090][948]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.27-23.55.30:091][948]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2022.11.27-23.55.30:140][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.11.27-23.55.30:143][948]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.11.27-23.55.30:143][948]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-23.55.30:143][948]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-23.55.30:143][948]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-23.55.30:143][948]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-23.55.30:143][948]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-23.55.30:143][948]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-23.55.30:143][948]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-23.55.30:143][948]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-23.55.30:143][948]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-23.55.30:143][948]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-23.55.30:143][948]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-23.55.30:146][948]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-23.55.30:171][948]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.27-23.55.30:172][948]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-23.55.30:172][948]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-23.55.30:172][948]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-23.55.30:173][948]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.11.27-23.55.30:173][948]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.11.27-23.55.30:175][948]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.11.27-23.55.30:175][948]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.11.27-23.55.30:175][948]LogInit: FAudioDevice initialized.
+[2022.11.27-23.55.30:175][948]LogAudio: Display: Audio Device (ID: 11) registered with world 'VRTemplateMap'.
+[2022.11.27-23.55.30:186][948]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.27-23.55.30:188][948]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.28-01.55.30
+[2022.11.27-23.55.30:188][948]LogWorld: Bringing up level for play took: 0.001446
+[2022.11.27-23.55.30:190][948]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2022.11.27-23.55.30:191][948]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-23.55.30:192][948]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.55.30:192][948]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.55.30:193][948]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2022.11.27-23.55.30:193][948]PIE: Server logged in
+[2022.11.27-23.55.30:194][948]PIE: Play in editor total start time 0,112 seconds.
+[2022.11.27-23.55.30:236][948]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-23.55.42:306][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.55.42:306][431]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.55.42:307][431]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-23.55.42:307][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.55.42:321][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-23.55.42:328][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.55.42:353][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.55.42:354][431]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-23.55.42:354][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.11.27-23.55.42:355][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.11.27-23.55.42:361][431]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.27-23.55.42:361][431]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.55.42:364][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.27-23.55.42:371][431]LogActorComponent: ReregisterComponent: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fire_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2022.11.27-23.55.42:431][432]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.11.27-23.55.54:802][660]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.27-23.55.54:811][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.27-23.55.54:811][660]PIE: New page: PIE session: VRTemplateMap (28 Nov 2022, 03:55:54)
+[2022.11.27-23.55.54:811][660]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.55.54:818][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006608s)
+[2022.11.27-23.55.54:818][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.006701s)
+[2022.11.27-23.55.54:818][660]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.27-23.55.54:818][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-23.55.54:819][660]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.27-23.55.54:819][660]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2022.11.27-23.55.54:854][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.11.27-23.55.54:855][660]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.11.27-23.55.54:855][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.27-23.55.54:855][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.27-23.55.54:855][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.27-23.55.54:855][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.27-23.55.54:855][660]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.27-23.55.54:855][660]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.27-23.55.54:855][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.27-23.55.54:855][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.27-23.55.54:856][660]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.27-23.55.54:856][660]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.27-23.55.54:856][660]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.27-23.55.54:859][660]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.27-23.55.54:886][660]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.27-23.55.54:886][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.27-23.55.54:886][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.27-23.55.54:887][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.27-23.55.54:887][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.11.27-23.55.54:887][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.11.27-23.55.54:889][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.11.27-23.55.54:889][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.11.27-23.55.54:889][660]LogInit: FAudioDevice initialized.
+[2022.11.27-23.55.54:890][660]LogAudio: Display: Audio Device (ID: 12) registered with world 'VRTemplateMap'.
+[2022.11.27-23.55.54:905][660]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.27-23.55.54:906][660]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.28-01.55.54
+[2022.11.27-23.55.54:906][660]LogWorld: Bringing up level for play took: 0.001612
+[2022.11.27-23.55.54:909][660]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2022.11.27-23.55.54:910][660]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.27-23.55.54:911][660]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.55.54:911][660]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.55.54:912][660]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2022.11.27-23.55.54:912][660]PIE: Server logged in
+[2022.11.27-23.55.54:913][660]PIE: Play in editor total start time 0,102 seconds.
+[2022.11.27-23.55.54:969][660]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.27-23.55.58:706][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.55.58:706][808]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.27-23.55.58:706][808]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.27-23.55.58:707][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.55.58:718][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.27-23.55.58:725][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.27-23.55.58:754][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.27-23.55.58:755][808]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.27-23.55.58:755][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.11.27-23.55.58:756][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.11.27-23.55.58:763][808]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.27-23.55.58:763][808]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.27-23.55.58:765][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.11.27-23.55.58:772][808]LogActorComponent: ReregisterComponent: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fire_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2022.11.27-23.55.58:832][809]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.11.27-23.56.04:896][927]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor
+[2022.11.27-23.56.04:897][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.27-23.56.46:681][537]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.28-00.12.55:174][476]Cmd: TRANSACTION UNDO
+[2022.11.28-00.12.55:174][476]LogEditorTransaction: Undo Comment Bubble Visibility
+[2022.11.28-00.12.56:109][488]LogEditorTransaction: Undo Add Node
+[2022.11.28-00.17.04:710][269]LogEditorTransaction: Undo Move Nodes
+[2022.11.28-00.17.06:042][287]LogEditorTransaction: Undo Add Node
+[2022.11.28-00.18.30:156][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.28-00.18.30:177][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto9
+[2022.11.28-00.18.30:178][569]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/VRTemplateMap_Auto9B02A92EB460633AFA6235D8818877E9B.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto9.umap'
+[2022.11.28-00.18.30:186][569]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.070
+[2022.11.28-00.18.30:186][569]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2022.11.28-00.18.30:186][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/Fashionistor] ([2] browsable assets)...
+[2022.11.28-00.18.30:186][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Fashionistor]
+[2022.11.28-00.18.30:191][569]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Fashionistor_Auto9
+[2022.11.28-00.18.30:191][569]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Fashionistor_Auto9686110CC4FED3227037D97A0F5BD42D0.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Blueprints/Fashionistor_Auto9.uasset'
+[2022.11.28-00.18.30:192][569]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.11.28-00.29.33:735][677]LogDerivedDataCache: C:/Users/Film/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.377 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.28-00.30.08:014][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.11.28-00.30.08:020][186]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.049
+[2022.11.28-00.30.08:020][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/Fashionistor] ([2] browsable assets)...
+[2022.11.28-00.30.08:020][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Fashionistor]
+[2022.11.28-00.30.08:025][186]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Fashionistor_Auto0
+[2022.11.28-00.30.08:025][186]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Fashionistor_Auto0BEBAE4F04941A01B3829D5B214C2AB2D.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Blueprints/Fashionistor_Auto0.uasset'
+[2022.11.28-00.30.08:029][186]LogFileHelpers: Auto-saving content packages took 0.009
+[2022.11.28-00.39.05:124][350]BlueprintLog: New page: Compile Fashionistor
+[2022.11.28-00.39.05:274][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.11.28-00.39.07:241][381]LogSlate: Window 'Fashionistor' being destroyed
+[2022.11.28-00.39.07:312][381]LogSlate: Window 'Fashionistor' being destroyed
+[2022.11.28-00.39.07:318][381]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-00.39.07:318][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-00.39.17:713][602]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.28-00.39.17:723][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.28-00.39.17:723][602]PIE: New page: PIE session: VRTemplateMap (28 Nov 2022, 04:39:17)
+[2022.11.28-00.39.17:723][602]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.28-00.39.17:730][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007038s)
+[2022.11.28-00.39.17:730][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007145s)
+[2022.11.28-00.39.17:731][602]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.28-00.39.17:731][602]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.28-00.39.17:731][602]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.28-00.39.17:732][602]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2022.11.28-00.39.17:775][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.11.28-00.39.17:784][602]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.11.28-00.39.17:784][602]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.28-00.39.17:784][602]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.28-00.39.17:784][602]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.28-00.39.17:784][602]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.28-00.39.17:784][602]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.28-00.39.17:784][602]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.28-00.39.17:784][602]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.28-00.39.17:784][602]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.28-00.39.17:785][602]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.28-00.39.17:785][602]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.28-00.39.17:785][602]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.28-00.39.17:788][602]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.28-00.39.17:812][602]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.28-00.39.17:812][602]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.28-00.39.17:812][602]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.28-00.39.17:812][602]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.28-00.39.17:814][602]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.11.28-00.39.17:814][602]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.11.28-00.39.17:815][602]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.11.28-00.39.17:816][602]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.11.28-00.39.17:816][602]LogInit: FAudioDevice initialized.
+[2022.11.28-00.39.17:816][602]LogAudio: Display: Audio Device (ID: 13) registered with world 'VRTemplateMap'.
+[2022.11.28-00.39.17:833][602]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.28-00.39.17:834][602]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.28-02.39.17
+[2022.11.28-00.39.17:835][602]LogWorld: Bringing up level for play took: 0.001657
+[2022.11.28-00.39.17:837][602]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2022.11.28-00.39.17:838][602]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.28-00.39.17:839][602]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.28-00.39.17:840][602]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.28-00.39.17:840][602]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2022.11.28-00.39.17:841][602]PIE: Server logged in
+[2022.11.28-00.39.17:841][602]PIE: Play in editor total start time 0,118 seconds.
+[2022.11.28-00.39.17:902][602]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.28-00.39.39:126][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-00.39.39:126][447]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.28-00.39.39:126][447]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-00.39.39:127][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-00.39.39:143][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.28-00.39.39:151][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-00.39.39:187][447]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.28-00.39.39:187][447]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.28-00.39.39:187][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.11.28-00.39.39:189][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.11.28-00.39.39:193][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-00.39.39:194][447]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.28-00.39.39:194][447]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.28-00.39.39:196][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.28-00.39.39:203][447]LogActorComponent: ReregisterComponent: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fire_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2022.11.28-00.39.39:228][448]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.11.28-00.40.18:855][627]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Fashionistor.Fashionistor
+[2022.11.28-00.40.18:855][627]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.28-00.41.45:841][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.11.28-00.41.45:859][939]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1
+[2022.11.28-00.41.45:859][939]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/VRTemplateMap_Auto1403EEDA446B9015DF6415BA4C96A1894.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2022.11.28-00.41.45:865][939]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.089
+[2022.11.28-00.41.45:865][939]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.089
+[2022.11.28-00.41.45:865][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/Fashionistor] ([2] browsable assets)...
+[2022.11.28-00.41.45:865][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Fashionistor]
+[2022.11.28-00.41.45:871][939]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Fashionistor_Auto1
+[2022.11.28-00.41.45:871][939]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Fashionistor_Auto1BA3F7F4746E6DCF8AC6BF59197272ADC.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Blueprints/Fashionistor_Auto1.uasset'
+[2022.11.28-00.41.45:871][939]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.11.28-00.51.46:291][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.11.28-00.51.46:295][578]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.053
+[2022.11.28-00.51.46:296][578]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/Fashionistor] ([2] browsable assets)...
+[2022.11.28-00.51.46:296][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Fashionistor]
+[2022.11.28-00.51.46:301][578]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Fashionistor_Auto2
+[2022.11.28-00.51.46:301][578]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Fashionistor_Auto2550E85B248A795E199EDA1A36FD4098E.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Blueprints/Fashionistor_Auto2.uasset'
+[2022.11.28-00.51.46:302][578]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.11.28-00.54.09:798][515]LogSlate: Window 'Delete Component' being destroyed
+[2022.11.28-00.54.09:810][515]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2022.11.28-00.54.09:810][515]LogBlueprint: Error: [AssetLog]  (no disk path found): [Compiler] The component that  On Component Hit (MotionController)  was bound to has been deleted! This node is no longer valid
+[2022.11.28-00.54.09:810][515]BlueprintLog: New page: Removed Owner of Component Bound Event
+[2022.11.28-00.54.09:810][515]BlueprintLog: Error: The component that  On Component Hit (MotionController)  was bound to has been deleted! This node is no longer valid
+[2022.11.28-00.54.13:760][569]LogEditorTransaction: Undo Remove Components
+[2022.11.28-00.54.16:038][610]LogEditorTransaction: Undo Delete current selection
+[2022.11.28-00.54.23:648][723]LogEditorTransaction: Undo Delete current selection
+[2022.11.28-00.54.24:786][738]LogEditorTransaction: Undo Add Node
+[2022.11.28-00.54.27:078][772]LogEditorTransaction: Undo Delete current selection
+[2022.11.28-00.54.43:759][868]LogSlate: Window 'Delete Component' being destroyed
+[2022.11.28-00.55.48:234][877]LogSlate: Window 'Delete Component' being destroyed
+[2022.11.28-00.55.48:243][877]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2022.11.28-00.55.48:244][877]LogBlueprint: Error: [AssetLog]  (no disk path found): [Compiler] The component that  On Component Hit (MotionController)  was bound to has been deleted! This node is no longer valid
+[2022.11.28-00.55.48:244][877]BlueprintLog: New page: Removed Owner of Component Bound Event
+[2022.11.28-00.55.48:244][877]BlueprintLog: Error: The component that  On Component Hit (MotionController)  was bound to has been deleted! This node is no longer valid
+[2022.11.28-01.03.31:015][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.11.28-01.03.31:035][265]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3
+[2022.11.28-01.03.31:035][265]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/VRTemplateMap_Auto322A1E63F4B7BA793D098ECBAB5E7EA5E.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3.umap'
+[2022.11.28-01.03.31:041][265]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.098
+[2022.11.28-01.03.31:041][265]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.098
+[2022.11.28-01.03.31:042][265]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/Fashionistor] ([2] browsable assets)...
+[2022.11.28-01.03.31:042][265]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Fashionistor]
+[2022.11.28-01.03.31:047][265]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Fashionistor_Auto3
+[2022.11.28-01.03.31:047][265]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Fashionistor_Auto312461367457DC959F273198F55B98DB4.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Blueprints/Fashionistor_Auto3.uasset'
+[2022.11.28-01.03.31:047][265]LogFileHelpers: Auto-saving content packages took 0.006
+[2022.11.28-01.06.23:150][112]LogEditorTransaction: Undo Promote to Local Variable
+[2022.11.28-01.14.29:912][997]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.28-01.17.43:537][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.11.28-01.17.43:558][340]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto4
+[2022.11.28-01.17.43:558][340]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/VRTemplateMap_Auto44DD443D3485716A30E8CC2A42668E791.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto4.umap'
+[2022.11.28-01.17.43:564][340]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.092
+[2022.11.28-01.17.43:564][340]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.092
+[2022.11.28-01.17.43:564][340]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/Fashionistor] ([2] browsable assets)...
+[2022.11.28-01.17.43:564][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Fashionistor]
+[2022.11.28-01.17.43:575][340]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/Fashionistor_Auto4
+[2022.11.28-01.17.43:575][340]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Fashionistor_Auto49C3B96254BF28B8D9D90B99413708E73.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/Autosaves/Game/VRTemplate/Blueprints/Fashionistor_Auto4.uasset'
+[2022.11.28-01.17.43:575][340]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.11.28-01.23.05:133][645]BlueprintLog: New page: Compile Fashionistor
+[2022.11.28-01.23.05:137][645]LogBlueprint: Warning: [AssetLog] C:\Users\Film\Documents\Unreal Projects\Hack-of-a-Team\Seefitbuy\Content\VRTemplate\Blueprints\Fashionistor.uasset: [Compiler] On Component Hit (MotionController)  does not have a valid matching component!
+[2022.11.28-01.23.05:269][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.11.28-01.24.41:730][254]BlueprintLog: New page: Compile Fashionistor
+[2022.11.28-01.24.41:867][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.28-01.24.48:572][366]LogSlate: Window 'Fashionistor' being destroyed
+[2022.11.28-01.24.48:635][366]LogSlate: Window 'Fashionistor' being destroyed
+[2022.11.28-01.24.48:647][366]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-01.24.48:647][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-01.24.53:347][463]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.28-01.24.53:355][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.28-01.24.53:355][463]PIE: New page: PIE session: VRTemplateMap (28 Nov 2022, 05:24:53)
+[2022.11.28-01.24.53:356][463]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.28-01.24.53:363][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007588s)
+[2022.11.28-01.24.53:363][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007695s)
+[2022.11.28-01.24.53:363][463]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.28-01.24.53:364][463]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.28-01.24.53:364][463]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.28-01.24.53:365][463]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2022.11.28-01.24.53:411][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.11.28-01.24.53:420][463]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.11.28-01.24.53:420][463]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.28-01.24.53:420][463]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.28-01.24.53:420][463]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.28-01.24.53:420][463]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.28-01.24.53:420][463]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.28-01.24.53:420][463]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.28-01.24.53:420][463]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.28-01.24.53:420][463]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.28-01.24.53:421][463]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.28-01.24.53:421][463]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.28-01.24.53:421][463]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.28-01.24.53:423][463]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.28-01.24.53:450][463]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.28-01.24.53:450][463]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.28-01.24.53:450][463]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.28-01.24.53:450][463]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.28-01.24.53:451][463]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.11.28-01.24.53:451][463]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.11.28-01.24.53:453][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.11.28-01.24.53:453][463]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.11.28-01.24.53:453][463]LogInit: FAudioDevice initialized.
+[2022.11.28-01.24.53:453][463]LogAudio: Display: Audio Device (ID: 14) registered with world 'VRTemplateMap'.
+[2022.11.28-01.24.53:477][463]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.28-01.24.53:478][463]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.28-03.24.53
+[2022.11.28-01.24.53:478][463]LogWorld: Bringing up level for play took: 0.001637
+[2022.11.28-01.24.53:481][463]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2022.11.28-01.24.53:482][463]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.28-01.24.53:483][463]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.28-01.24.53:483][463]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.28-01.24.53:484][463]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2022.11.28-01.24.53:484][463]PIE: Server logged in
+[2022.11.28-01.24.53:485][463]PIE: Play in editor total start time 0,13 seconds.
+[2022.11.28-01.24.53:530][463]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.28-01.25.05:825][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-01.25.05:825][951]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.28-01.25.05:826][951]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-01.25.05:826][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-01.25.05:838][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.28-01.25.05:846][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-01.25.05:874][951]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.28-01.25.05:874][951]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.28-01.25.05:874][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.11.28-01.25.05:876][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.11.28-01.25.05:881][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-01.25.05:882][951]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.28-01.25.05:882][951]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.28-01.25.05:884][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.11.28-01.25.05:891][951]LogActorComponent: ReregisterComponent: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fire_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2022.11.28-01.25.05:952][952]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.11.28-01.25.18:798][310]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.28-01.25.18:919][310]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.28-01.29.33:789][663]LogDerivedDataCache: C:/Users/Film/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.427 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.28-01.29.43:223][861]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.28-01.30.00:945][247]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.28-01.30.01:014][247]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.28-01.30.04:065][337]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.28-01.30.04:074][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.28-01.30.04:074][337]PIE: New page: PIE session: VRTemplateMap (28 Nov 2022, 05:30:04)
+[2022.11.28-01.30.04:074][337]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.28-01.30.04:082][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007496s)
+[2022.11.28-01.30.04:082][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.007610s)
+[2022.11.28-01.30.04:082][337]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.28-01.30.04:082][337]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.28-01.30.04:082][337]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.28-01.30.04:083][337]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2022.11.28-01.30.04:187][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.11.28-01.30.04:192][337]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.11.28-01.30.04:192][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.28-01.30.04:192][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.28-01.30.04:192][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.28-01.30.04:192][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.28-01.30.04:192][337]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.28-01.30.04:192][337]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.28-01.30.04:192][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.28-01.30.04:192][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.28-01.30.04:193][337]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.28-01.30.04:193][337]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.28-01.30.04:193][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.28-01.30.04:195][337]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.28-01.30.04:220][337]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.28-01.30.04:222][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.28-01.30.04:222][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.28-01.30.04:222][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.28-01.30.04:222][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.11.28-01.30.04:222][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2022.11.28-01.30.04:224][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.11.28-01.30.04:224][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.11.28-01.30.04:224][337]LogInit: FAudioDevice initialized.
+[2022.11.28-01.30.04:224][337]LogAudio: Display: Audio Device (ID: 15) registered with world 'VRTemplateMap'.
+[2022.11.28-01.30.04:241][337]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.28-01.30.04:242][337]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.28-03.30.04
+[2022.11.28-01.30.04:243][337]LogWorld: Bringing up level for play took: 0.001591
+[2022.11.28-01.30.04:245][337]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2022.11.28-01.30.04:246][337]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.28-01.30.04:247][337]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.28-01.30.04:247][337]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.28-01.30.04:248][337]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2022.11.28-01.30.04:248][337]PIE: Server logged in
+[2022.11.28-01.30.04:249][337]PIE: Play in editor total start time 0,175 seconds.
+[2022.11.28-01.30.04:298][337]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.28-01.30.48:605][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-01.30.48:605][183]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.28-01.30.48:605][183]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-01.30.48:605][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-01.30.48:623][183]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.28-01.30.48:631][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-01.30.48:701][183]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.28-01.30.48:701][183]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.28-01.30.48:702][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.11.28-01.30.48:703][183]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.11.28-01.30.48:708][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-01.30.48:710][183]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.28-01.30.48:710][183]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.28-01.30.48:711][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.11.28-01.30.48:722][183]LogActorComponent: ReregisterComponent: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fire_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2022.11.28-01.30.48:756][184]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.11.28-01.31.03:558][643]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.28-01.31.03:674][643]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.28-01.31.53:444][683]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.28-01.31.53:513][683]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.28-01.32.04:604][965]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.28-01.32.04:613][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.28-01.32.04:613][965]PIE: New page: PIE session: VRTemplateMap (28 Nov 2022, 05:32:04)
+[2022.11.28-01.32.04:613][965]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.28-01.32.04:620][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006773s)
+[2022.11.28-01.32.04:620][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.006871s)
+[2022.11.28-01.32.04:620][965]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.28-01.32.04:621][965]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.28-01.32.04:621][965]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.28-01.32.04:621][965]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2022.11.28-01.32.04:657][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.28-01.32.04:659][965]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.11.28-01.32.04:659][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.28-01.32.04:659][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.28-01.32.04:659][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.28-01.32.04:659][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.28-01.32.04:659][965]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.28-01.32.04:659][965]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.28-01.32.04:659][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.28-01.32.04:659][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.28-01.32.04:660][965]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.28-01.32.04:660][965]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.28-01.32.04:660][965]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.28-01.32.04:662][965]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.28-01.32.04:687][965]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Cirrus Logic CS4208 (AB 94))
+[2022.11.28-01.32.04:688][965]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.28-01.32.04:688][965]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.28-01.32.04:688][965]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.28-01.32.04:688][965]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2022.11.28-01.32.04:688][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2022.11.28-01.32.04:690][965]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2022.11.28-01.32.04:690][965]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2022.11.28-01.32.04:690][965]LogInit: FAudioDevice initialized.
+[2022.11.28-01.32.04:691][965]LogAudio: Display: Audio Device (ID: 16) registered with world 'VRTemplateMap'.
+[2022.11.28-01.32.04:708][965]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.28-01.32.04:709][965]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 60) at 2022.11.28-03.32.04
+[2022.11.28-01.32.04:710][965]LogWorld: Bringing up level for play took: 0.001697
+[2022.11.28-01.32.04:712][965]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2022.11.28-01.32.04:713][965]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.28-01.32.04:715][965]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.28-01.32.04:715][965]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.28-01.32.04:715][965]LogViewport: Display: Player bShowMouseCursor Changed, False -> True
+[2022.11.28-01.32.04:716][965]PIE: Server logged in
+[2022.11.28-01.32.04:716][965]PIE: Play in editor total start time 0,103 seconds.
+[2022.11.28-01.32.04:758][965]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.28-01.32.35:774][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-01.32.35:774][263]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2022.11.28-01.32.35:774][263]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.28-01.32.35:774][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-01.32.35:787][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.28-01.32.35:794][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.28-01.32.35:827][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.28-01.32.35:828][263]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.28-01.32.35:828][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.11.28-01.32.35:830][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.11.28-01.32.35:834][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.28-01.32.35:835][263]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.28-01.32.35:835][263]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.28-01.32.35:837][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.11.28-01.32.35:844][263]LogActorComponent: ReregisterComponent: (/Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.Fire_Cue_2.AudioComponent0) Not currently registered. Aborting.
+[2022.11.28-01.32.35:922][264]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.11.28-01.32.53:776][636]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-RFAMG8E
+[2022.11.28-01.33.07:191][907]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-RFAMG8E
+[2022.11.28-01.33.56:536][759]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.11.28-01.33.56:620][759]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.11.28-01.34.01:863][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.11.28-01.34.01:881][837]LogSavePackage: Moving output files for package: /Game/VRTemplate/Maps/VRTemplateMap
+[2022.11.28-01.34.01:881][837]LogSavePackage: Moving '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Saved/VRTemplateMap41E72CF940C7522CD48EB2AA08E9E8F5.tmp' to '../../../../../../Users/Film/Documents/Unreal Projects/Hack-of-a-Team/Seefitbuy/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2022.11.28-01.34.01:923][837]LogFileHelpers: No new changes to save!
+[2022.11.28-01.34.01:938][837]AssetCheck: New page: Asset Save: VRTemplateMap
+[2022.11.28-01.34.01:938][837]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
